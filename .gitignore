@@ -16,3 +16,4 @@ pycache/
 *.jpg
 
 media/
+simple_bot.db
